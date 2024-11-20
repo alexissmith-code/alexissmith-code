@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alexissmith-code
-- 👀 I’m currently studying at Western Colorado University
-- 🌱 I'm majoring in Computer Science with an emphasis in Cybersecurity
-- 💞️ I'm also interested in software engeneering and web development
-- 📫 My linked in is alexissmithe
+- Hi, I’m @alexissmith-code
+- I’m currently studying at Western Colorado University
+- I'm majoring in Computer Science with an emphasis in Cybersecurity
+- I'm also interested in Software Engeneering and Web Development
+- If you need to reach me my linked in is alexissmithe
 
 
 <!---
